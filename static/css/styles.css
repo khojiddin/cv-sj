@@ -24,7 +24,10 @@ h3, h2{
   color: #105652;
   font-family: serif;
 }
-
+h3{
+  color: #FBF3E4;
+  font-family: serif;
+}
 p{
   color: #105652;
   line-height: 2;
